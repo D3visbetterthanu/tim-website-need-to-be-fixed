@@ -1,0 +1,66 @@
+body{
+    text-align:center;
+
+}
+#tim{
+    border-radius:50%;
+    width:180px;
+    margin-bottom:50px;
+}
+#welcome{
+  color: #FFFFFF;   bottom: 0;  opacity: 0.83; background: linear-gradient(#60ebeb 0%, #27ae60 100%); display: table; width: 100%; height: 100%;
+    z-index:9;
+
+}
+#bio { padding: 70px; text-align: center; font-size: 42px; }
+.line{
+    height: 6px; background-color: #000; width: 70px; margin: 8px auto;
+}
+
+
+p{
+    max-width: 450px;
+    line-height: 1.3;
+    font-size: 18px;
+    margin: 25px auto;
+}
+#span_1{
+    font-size: 30px;
+    font-family: 'Ballet';
+}
+
+#div_1{
+    display: table-cell;
+    text-align:center;
+    vertical-align: middle;
+    position: relative;
+}
+
+
+
+
+
+
+.anchor:hover{
+    color:dodgerblue;
+    font-size:35px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+    .contact1 h3{
+        display:inline;
+        background-color: firebrick;
+        color:white;
+    }
+#contacts iframe{
+   width:100%;
+
+}
+#contacts{
+    background-color: firebrick;
+}
+
+
